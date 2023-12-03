@@ -9,7 +9,7 @@
                 <p>
                   Av. Rojas Magallanes 1122, La Florida<br>
                   Santiago, Chile<br><br>
-                  <strong>Email:</strong> contacto@vlf.cl<br>
+                  <strong>Email:</strong> contacto@ivlf.cl<br>
                 </p>
                 <div class="social-links mt-3">
                   <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FIglesia-vi%25C3%25B1a-la-florida-258422480861743%2F&sa=D&sntz=1&usg=AFQjCNGhENEPNI1p1pXSSdp75jXA54kGQQ" title="Iglesia Viña La Florida" class="facebook"><i class="bx bxl-facebook"></i></a>
