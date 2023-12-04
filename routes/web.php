@@ -4,8 +4,8 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
 Route::get('/', 'App\Http\Livewire\HomeIndex')->name('home');
-Route::get('/about', 'App\Http\Livewire\AboutIndex')->name('about');
 Route::get('/ministries', 'App\Http\Livewire\MinistriesIndex')->name('ministries');
+Route::get('/church/{id}', App\Http\Livewire\ChurchIndex::class);
 Route::get('/ministry/{id}', App\Http\Livewire\MinistriesIndex::class);
 Route::get('/activities', 'App\Http\Livewire\ActivitiesIndex')->name('activities');
 Route::get('/teams', 'App\Http\Livewire\TeamsIndex')->name('teams');

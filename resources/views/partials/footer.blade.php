@@ -24,7 +24,7 @@
               <h4>Enlaces de Interés</h4>
               <ul>
                 <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home') }}">Inicio</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="{{ route('about') }}">Nosotros</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home') }}">Nosotros</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home') }}">Ministerios</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home') }}">Santa Biblia</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="{{ route('contacts') }}">Peticiones</a></li>

@@ -21,7 +21,7 @@
           <li class="dropdown"><a href="#">Ministerios<i class="bi bi-chevron-down"></i></a>
            <ul>
             <li><a href="/ministry/1">Adoración</a></li>
-            <li><a href="/ministry/2">Enseñanza</a></li>
+            <li><a href="/ministry/2">Formación Cristiana</a></li>
             <li><a href="/ministry/3">Amigos de Jesús</a></li>
             <li><a href="/ministry/4">Grupos de Conexión</a></li>
             <li><a href="/ministry/5">Misericordia</a></li>
